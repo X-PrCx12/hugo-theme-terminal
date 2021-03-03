@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
@@ -12,7 +12,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
+    title = "Detro Blog"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Detro Blog"
       logoHomeLink = "/"
 
     [languages.en.menu]
